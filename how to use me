@@ -1,4 +1,6 @@
 sudo apt update
 sudo apt upgrade
 cd Desktop
-git clone 
+git clone https://github.com/dura51/moving.git
+chmod +x moving.sh
+./moving.sh
