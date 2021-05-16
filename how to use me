@@ -1,7 +1,7 @@
 sudo apt update
 sudo apt upgrade
-cd Desktop
 git clone https://github.com/dura51/moving.git
 cd moving
+then move moving.sh to a path you want to change a name in it
 chmod +x moving.sh
 ./moving.sh
